@@ -10,3 +10,7 @@ for coin in coin_array:
 
 print(count)
 #시간복잡도 O(k)
+
+#이코테 그리디 문제 2번 곱하기 혹은 더하기
+s = int(input())
+print(s)
